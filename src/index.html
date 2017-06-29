@@ -19,6 +19,15 @@
 	<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
 	<link rel="icon" type="image/x-icon" href="favicon.ico">
 	<script src="https://use.fontawesome.com/0133a0d0da.js"></script>
+  <script>
+  (function(){
+    var redirect = sessionStorage.redirect;
+    delete sessionStorage.redirect;
+    if (redirect && redirect != location.href) {
+      history.replaceState(null, null, redirect);
+    }
+  })();
+</script>
 </head>
 <body>
 	<my-app>Loading...</my-app>
