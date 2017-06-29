@@ -46,21 +46,20 @@ This page displays 4 out of the 9 planets that have been stored in a list/tuple.
 Second Page - "Stars" 
 
 Screenshot availabe here: 
-![Stars Screenshot]("https://www.dropbox.com/s/xs550mlxtfu7d6d/Screenshot%202017-06-29%2017.02.15.png?dl=0")
-![Alt text]("https://www.dropbox.com/s/x4g9l5j2earva2d/Screenshot%202017-06-29%2017.02.26.png?dl=0""Stars")
+"https://www.dropbox.com/s/xs550mlxtfu7d6d/Screenshot%202017-06-29%2017.02.15.png?dl=0""Stars 2a"
 
 Stars 2a)
 This page shows the 9 solar planets in an ordered list with more detailed attributes pulled in from the list - namely distance from the sun. They are ordered that way. 
 
 Screenshot availabe here: 
-![Alt text]("https://www.dropbox.com/s/sxrny4f6pqw2vvz/Screenshot%202017-06-29%2017.02.42.png?dl=0" "Stars 2b")
+"https://www.dropbox.com/s/sxrny4f6pqw2vvz/Screenshot%202017-06-29%2017.02.42.png?dl=0""Stars 2b"
 
 Stars 2b) 
 List items are clickable and render section beneath list with short statement and further link to detailed page for that particular planet
 
 Third Page - "Pictures"
 Screenshot availabe here: 
-![Alt text]("https://www.dropbox.com/s/yfsig66oujydsph/Screenshot%202017-06-29%2017.02.54.png?dl=0" "Pictures")
+"https://www.dropbox.com/s/yfsig66oujydsph/Screenshot%202017-06-29%2017.02.54.png?dl=0""Pictures"
 
 Screenshot available here: 
 
