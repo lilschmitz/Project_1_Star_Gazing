@@ -39,7 +39,7 @@ Site Outline
 
 Landing Page - "Dashboard"
 Screenshot avaible here:
-![Dashboard Screenshot]("https://www.dropbox.com/s/ghlvc88r048bbsx/Screenshot%202017-06-29%2017.02.09.png?dl=0""Dashboard")
+"https://www.dropbox.com/s/ghlvc88r048bbsx/Screenshot%202017-06-29%2017.02.09.png?dl=0""Dashboard"
 
 This page displays 4 out of the 9 planets that have been stored in a list/tuple. 
 
