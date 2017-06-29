@@ -39,15 +39,15 @@ Site Outline
 
 Landing Page - "Dashboard"
 Screenshot avaible here:
-![Alt text]("https://www.dropbox.com/s/ghlvc88r048bbsx/Screenshot%202017-06-29%2017.02.09.png?dl=0" "Optional title")
+![Alt text]("https://www.dropbox.com/s/ghlvc88r048bbsx/Screenshot%202017-06-29%2017.02.09.png?dl=0")
 
 This page displays 4 out of the 9 planets that have been stored in a list/tuple. 
 
 Second Page - "Stars" 
 
 Screenshot availabe here: 
-![Alt text]("https://www.dropbox.com/s/xs550mlxtfu7d6d/Screenshot%202017-06-29%2017.02.15.png?dl=0" "Stars 2a")
-![Alt text]("https://www.dropbox.com/s/x4g9l5j2earva2d/Screenshot%202017-06-29%2017.02.26.png?dl=0" "Stars 2a detailed")
+![Alt text]("https://www.dropbox.com/s/xs550mlxtfu7d6d/Screenshot%202017-06-29%2017.02.15.png?dl=0")
+![Alt text]("https://www.dropbox.com/s/x4g9l5j2earva2d/Screenshot%202017-06-29%2017.02.26.png?dl=0")
 
 Stars 2a)
 This page shows the 9 solar planets in an ordered list with more detailed attributes pulled in from the list - namely distance from the sun. They are ordered that way. 
