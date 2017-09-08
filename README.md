@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
+REMEMBER to run `npm install` to ensure that the correct Angular CLI package is installed! Before running `ng serve`.
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
