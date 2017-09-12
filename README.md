@@ -52,7 +52,7 @@ Screenshot availabe here:
 [Stars List of Solar Planets](https://www.dropbox.com/s/xs550mlxtfu7d6d/Screenshot%202017-06-29%2017.02.15.png?dl=0)
 
 
-This page shows the 9 solar planets in an ordered list with more detailed attributes pulled in from the list - namely distance from the sun. They are ordered that way. 
+This page shows the 9 solar planets in an ordered list with more detailed attributes pulled in from the list - namely distance from the sun. They are ordered according to their relative distance to the sun. 
 
 
 ### Stars Links Detailed View
@@ -77,3 +77,12 @@ The API can be obtained here
 [API Source](https://api.nasa.gov/)
 
 The API used is the Astronomy Picture of the Day in short APOD. It has been supplemented with the actual time/date details. 
+###Authors
+•	Kathrin Schmitz 
+
+###License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+####Acknowledgments & Inspiration 
+•	[The Angular Super Hero Tutorial] (https://angular.io/tutorial) which has been adapted and only used for guidance!
+
