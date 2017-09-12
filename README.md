@@ -1,4 +1,4 @@
-# Starrysky
+# Starrysky Or Project 1 Star Gazing
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
 
