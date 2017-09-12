@@ -77,12 +77,16 @@ The API can be obtained here
 [API Source](https://api.nasa.gov/)
 
 The API used is the Astronomy Picture of the Day in short APOD. It has been supplemented with the actual time/date details. 
-###Authors
+
+# Authors
+
 •	Kathrin Schmitz 
 
-###License
+# License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-####Acknowledgments & Inspiration 
-•	[The Angular Super Hero Tutorial] (https://angular.io/tutorial) which has been adapted and only used for guidance!
+# Acknowledgments & Inspiration 
+
+•	[The Angular Super Hero Tutorial](https://angular.io/tutorial) which has been adapted and only used for guidance!
 
